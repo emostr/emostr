@@ -1,3 +1,1 @@
-# Добро пожаловать! 
-
-## Я TypeScript-разработчик, в работе использую NEXT.js и NestJS.
+There's nothing here yet.
