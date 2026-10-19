@@ -1,1 +1,1 @@
-studying Ruby & Rails developer, Swift vibecoder
+начинающий разработчик на Ruby, вайбкодер на всем остальном
